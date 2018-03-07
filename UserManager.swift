@@ -2,8 +2,8 @@
 //  UserManager.swift
 //  Demo
 //
-//  Created by Tejas Ardeshna on 17/09/15.
-//  Copyright (c) 2015 Fill In Rx Ltd All rights reserved.
+//  Created by Pradeep Chakoriya on 17/09/15.
+//  Copyright (c) 2015 Pradeep Chakoriya Ltd All rights reserved.
 //
 
 

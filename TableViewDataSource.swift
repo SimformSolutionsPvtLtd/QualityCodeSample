@@ -2,8 +2,8 @@
 //  TableViewDataSource.swift
 //  Demo
 //
-//  Created by Tejas Ardeshna on 02/06/16.
-//  Copyright © 2016 Tejas Ardeshna. All rights reserved.
+//  Created by Pradeep Chakoriya on 17/09/15.
+//  Copyright (c) 2015 Pradeep Chakoriya Ltd All rights reserved.
 //
 
 
